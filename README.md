@@ -13,7 +13,7 @@ A simple Java program to check whether a given number is prime. It includes erro
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/java-prime-checker.git
+   git clone https://github.com/nurulashraf/java-prime-checker.git
    ```
 2. Navigate to the project directory:
    ```sh
