@@ -28,11 +28,20 @@ A simple Java program to check whether a given number is prime. It includes erro
    java -cp src primechecker.PrimeChecker
    ```
 
+## Docker
+Build and run using Docker:
+```sh
+docker build -t prime-checker .
+docker run -it prime-checker
+```
+
 ## Repository Structure
 ```
 java-prime-checker/
 │── src/
 │   └── PrimeChecker.java
+│── Dockerfile
+│── .dockerignore
 │── README.md
 └── LICENSE
 ```
